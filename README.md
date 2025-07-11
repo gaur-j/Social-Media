@@ -40,7 +40,7 @@ A **lightweight social media interface** built with a modern dark theme, allowin
 ![User Profile](docs/screenshot-profile.png)
 
 > 📽️ ***Demo Video:*** 
-> Watch a walkthrough of the project 👉 [demo.mp4](docs/social-app.mp4)
+🎬 [Click here to watch the demo video](docs/social-app.mp4)
 
 ---
 
